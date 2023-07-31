@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [My Games](https://chrystian-ariel.itch.io/)
 
-- 🌱 I’m currently learning **C# and Git flow**
+- 🌱 I’m currently improving my **programming skill**
 
 - 👯 I’m looking to collaborate on **Great projects**
 
