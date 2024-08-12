@@ -14,7 +14,7 @@ Also a passionate game developer living in Brazil</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/arialchrys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arialchrys" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chrystian-ariel/" target="blank"><img align="center" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="arialchrys" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
